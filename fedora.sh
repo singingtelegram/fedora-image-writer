@@ -18,8 +18,6 @@ INPUT="$BOLD => $NORM"
 UEFI=false
 workstation_iso="https://download.fedoraproject.org/pub/fedora/linux/releases/31/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-31-1.9.iso"
 workstation_checksum="https://getfedora.org/static/checksums/Fedora-Workstation-31-1.9-x86_64-CHECKSUM"
-#workstation_iso="http://127.0.0.1/Fedora-Workstation-Live-x86_64-31-1.9.iso"
-#workstation_checksum="http://127.0.0.1/Fedora-Workstation-31-1.9-x86_64-CHECKSUM"
 spins_checksum="https://spins.fedoraproject.org/static/checksums/Fedora-Spins-31-1.9-x86_64-CHECKSUM"
 kde_iso="https://download.fedoraproject.org/pub/fedora/linux/releases/31/Spins/x86_64/iso/Fedora-KDE-Live-x86_64-31-1.9.iso"
 xfce_iso="https://download.fedoraproject.org/pub/fedora/linux/releases/31/Spins/x86_64/iso/Fedora-Xfce-Live-x86_64-31-1.9.iso"
